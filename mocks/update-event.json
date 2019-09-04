@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\":\"new worldddd\"}",
+    "pathParameters": {
+      "postId": "post1",
+      "commentId": "8e2caa10-ce53-11e9-9d08-e9c87cbe91ea"
+    }
+}
+  
